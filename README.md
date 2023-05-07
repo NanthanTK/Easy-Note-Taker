@@ -33,6 +33,11 @@ https://easy-note-taker-karun.herokuapp.com/
 2. click on the + icone to start a new note
 3. once finished save the note
 4. click on any note in the left hand side panes to open and see details.
+   The following imsagesdemonstrate:
+   ![The landing page](demo-Images/Landing%20page.png)
+   ![New notes page](demo-Images/New%20note.png)
+   ![Note display page](demo-Images/Note%20displayed.png)
+
 
 ## Credits
 
