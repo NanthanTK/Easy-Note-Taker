@@ -67,7 +67,7 @@ app.post('/api/notes', (req, res) => {
       text,
       id:uuidv4(),
     };
-    console.log(newNote); // line to check if newNote has an ID
+   
     readAndAppend(newNote, './db/db.json');
     res.json(`Note added successfully 🚀`);
   } else {
